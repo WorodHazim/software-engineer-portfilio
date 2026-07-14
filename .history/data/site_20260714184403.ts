@@ -518,7 +518,7 @@ export const education = [
   },
   {
     period: "2015—19",
-    title: "Bachelor of Software Engineering",
+    title: "Bachelor of Science in Software Engineering",
     place: "University degree",
   },
 ];
